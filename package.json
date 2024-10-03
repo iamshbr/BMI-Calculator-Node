@@ -1,0 +1,17 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "This is a BMI Calculator Website.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shabbir Zohair",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
